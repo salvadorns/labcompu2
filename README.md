@@ -1,12 +1,12 @@
 # labcompu2
 
-##Autores
+## Autores
 - **Novillo Saravia**, Salvador 
 
-##contenido
+## contenido
 Esto es una prueba de LAb
 
-###Contacto 
+### Contacto 
 |Nombre   | Apellido     | Email                |
 |---------|--------------|----------------------|
 |Salvador |Novillo S.    |salvinovillo@gmail.com|
